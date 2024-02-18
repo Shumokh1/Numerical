@@ -1,2 +1,2 @@
 # Numerical
- Taylor method- Euler method- RungeKutta method using python
+ Python code implementation of Euler's method, Taylor's method, and the Runge-Kutta method.
